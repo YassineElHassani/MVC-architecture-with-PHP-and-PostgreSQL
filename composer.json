@@ -1,0 +1,18 @@
+{
+    "name": "root/mvc-architecture-with-php-and-postgre-sql",
+    "require": {
+        "composer/composer": "^2.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/",
+            "database\\": "database/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yassine El hassani",
+            "email": "yassine.ds.404@gmail.com"
+        }
+    ]
+}
