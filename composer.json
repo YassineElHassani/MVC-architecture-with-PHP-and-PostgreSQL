@@ -3,11 +3,18 @@
     "require-dev": {
         "composer/composer": "^2.8"
     },
+  
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/",
+            "config\\": "config/"
+        }
+    },
+
     "authors": [
         {
             "name": "drissnafii",
             "email": "drissnafi3@gmail.com"
         }
-    ],
-    "require": {}
+    ]
 }
