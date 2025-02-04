@@ -4,16 +4,18 @@
         "composer/composer": "^2.8",
         "vlucas/phpdotenv": "^5.6"
     },
+  
     "autoload": {
         "psr-4": {
             "App\\": "app/",
             "Core\\": "app/core/"
         }
     },
+
     "authors": [
         {
-            "name": "Yassine El hassani",
-            "email": "yassine.ds.404@gmail.com"
+            "name": "drissnafii",
+            "email": "drissnafi3@gmail.com"
         }
     ]
 }
