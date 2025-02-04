@@ -1,18 +1,20 @@
 {
-    "name": "root/mvc-architecture-with-php-and-postgre-sql",
-    "require": {
+    "name": "youcode/mvc-architecture-with-php-and-postgre-sql",
+    "require-dev": {
         "composer/composer": "^2.8"
     },
+  
     "autoload": {
         "psr-4": {
             "app\\": "app/",
             "config\\": "config/"
         }
     },
+
     "authors": [
         {
-            "name": "Yassine El hassani",
-            "email": "yassine.ds.404@gmail.com"
+            "name": "drissnafii",
+            "email": "drissnafi3@gmail.com"
         }
     ]
 }
