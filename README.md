@@ -103,7 +103,3 @@ Ce projet constitue une base d'architecture MVC modulaire et sécurisée pour le
 - [Documentation de Twig](https://twig.symfony.com/doc/)
 - [Documentation PDO de PHP](https://www.php.net/manual/en/book.pdo.php)
 ```
-
----
-
-Ce fichier `README.md` fournit une vue d'ensemble simple et structurée du projet, en mettant en avant les fonctionnalités, la structure du code, ainsi que les étapes d'installation et de configuration. Vous pouvez l'adapter selon vos besoins spécifiques.
