@@ -1,8 +1,11 @@
 <?php
-
+namespace App\Config;
 require_once __DIR__ . '/../../vendor/autoload.php';
+use Dotenv;
+use Pdo;
+use PDOException;
 
-class Config {
+class Database {
 
     private $host;
     private $database;
@@ -34,3 +37,8 @@ class Config {
         return self::$pdo;
     }
 }
+
+new Database();
+Database::getConnection();
+
+?>

@@ -1,5 +1,5 @@
 {
-    "name": "root/mvc-architecture-with-php-and-postgre-sql",
+    "name": "youcode/routing",
     "require": {
         "composer/composer": "^2.8",
         "vlucas/phpdotenv": "^5.6"
@@ -12,8 +12,8 @@
     },
     "authors": [
         {
-            "name": "drissnafii",
-            "email": "drissnafi3@gmail.com"
+            "name": "Yassine El hassani",
+            "email": "yassine.ds.404@gmail.com"
         }
     ]
 }
